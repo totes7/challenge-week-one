@@ -58,6 +58,12 @@ Below is a mock-up of the final product.
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
+## Testing
+
+The website was tested for accessibility and SEO using Lighthouse in the DevTools; you can find a screenshot of the results below.
+
+![Lighthouse](assets/readme_docs/screenshot-5.jpg)
+
 ## Media
 
 All the images and the icons were provided in the started code.
